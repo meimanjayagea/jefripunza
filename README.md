@@ -40,10 +40,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-## 🔥 Streak Stats
+### 🔥 Streak Stats
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jefripunza&theme=algolia" alt="stazyu" /></p>
 
-## 📄 Github Stats
+### 📄 Github Stats
 <p align="left">
 <a href="https://github.com/jefripunza">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=jefripunza&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
